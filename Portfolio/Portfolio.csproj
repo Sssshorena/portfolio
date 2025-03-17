@@ -13,8 +13,4 @@
     <None Remove="wwwroot\**" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Content Include="index.html" />
-  </ItemGroup>
-
 </Project>
