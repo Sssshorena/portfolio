@@ -1,4 +1,7 @@
 C:\ClonedRepository\Portfolio\wwwroot\_Layout.cshtml
 C:\ClonedRepository\Portfolio\wwwroot\_Layout.cshtml.css
+C:\ClonedRepository\Portfolio\wwwroot\css\site.css
+C:\ClonedRepository\Portfolio\wwwroot\favicon.ico
 C:\ClonedRepository\Portfolio\wwwroot\Home\Index.cshtml
 C:\ClonedRepository\Portfolio\wwwroot\Home\Privacy.cshtml
+C:\ClonedRepository\Portfolio\wwwroot\js\site.js
