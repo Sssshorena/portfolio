@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\ClonedRepository\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24296D72-35C5-4E8F-AE79-11711AEF3207}|Portfolio.csproj|c:\\clonedrepository\\portfolio\\githubpages\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24296D72-35C5-4E8F-AE79-11711AEF3207}|Portfolio.csproj|solutionrelative:githubpages\\home\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{24296D72-35C5-4E8F-AE79-11711AEF3207}|Portfolio.csproj|c:\\clonedrepository\\portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24296D72-35C5-4E8F-AE79-11711AEF3207}|Portfolio.csproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.html",
-              "DocumentMoniker": "C:\\ClonedRepository\\Portfolio\\GitHubPages\\Home\\Index.html",
-              "RelativeDocumentMoniker": "GitHubPages\\Home\\Index.html",
-              "ToolTip": "C:\\ClonedRepository\\Portfolio\\GitHubPages\\Home\\Index.html",
-              "RelativeToolTip": "GitHubPages\\Home\\Index.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\ClonedRepository\\Portfolio\\Index.html",
+              "RelativeDocumentMoniker": "Index.html",
+              "ToolTip": "C:\\ClonedRepository\\Portfolio\\Index.html",
+              "RelativeToolTip": "Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-17T10:12:44.837Z",
               "EditorCaption": ""
